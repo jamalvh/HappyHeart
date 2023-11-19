@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+camera=/Users/jvh/.pub-cache/hosted/pub.dev/camera-0.10.5+5/
+camera_android=/Users/jvh/.pub-cache/hosted/pub.dev/camera_android-0.10.8+13/
+camera_avfoundation=/Users/jvh/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.13+7/
+camera_web=/Users/jvh/.pub-cache/hosted/pub.dev/camera_web-0.3.2+3/
+cloud_firestore=/Users/jvh/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.1/
+cloud_firestore_web=/Users/jvh/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.8.5/
+firebase_analytics=/Users/jvh/.pub-cache/hosted/pub.dev/firebase_analytics-10.7.0/
+firebase_analytics_web=/Users/jvh/.pub-cache/hosted/pub.dev/firebase_analytics_web-0.5.5+7/
+firebase_auth=/Users/jvh/.pub-cache/hosted/pub.dev/firebase_auth-4.14.0/
+firebase_auth_web=/Users/jvh/.pub-cache/hosted/pub.dev/firebase_auth_web-5.8.7/
+firebase_core=/Users/jvh/.pub-cache/hosted/pub.dev/firebase_core-2.22.0/
+firebase_core_web=/Users/jvh/.pub-cache/hosted/pub.dev/firebase_core_web-2.8.1/
+flutter_plugin_android_lifecycle=/Users/jvh/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17/
+google_mlkit_commons=/Users/jvh/.pub-cache/hosted/pub.dev/google_mlkit_commons-0.6.1/
+google_mlkit_pose_detection=/Users/jvh/.pub-cache/hosted/pub.dev/google_mlkit_pose_detection-0.10.0/
