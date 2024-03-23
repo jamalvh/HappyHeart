@@ -12,7 +12,7 @@ The Functionality
 -----------------
 
 1) Provides live feedback using Pose-Estimation to guide user through proper form for BP Measurement
-2) Documents all BP Measurements digitally (date, systolic pressure, diastolic pressure)
+2) Documents all BP Measurements digitally (date, systolic pressure, diastolic pressure)
 3) Highlights notable measurements and produces trend graphs to inform physicians in seconds +Very intuitive to use for target audience of older folks
 
 Under the Hood
