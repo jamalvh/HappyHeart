@@ -41,3 +41,14 @@ What's next for HappyHeart
 --------------------------
 
 An exciting next step is allowing users to add a Doctor, who would be able to see their BP Measurement history as well as that of their other patients through the Cloud. Doctors would also receive notifications if their patients record alarming measurements, significantly reducing response time to potentially acute events.
+
+![image](https://github.com/jamalvh/happyheart/assets/113135025/fe1ad3ce-d42c-4bbf-93c5-9a6096e3a428)
+![image](https://github.com/jamalvh/happyheart/assets/113135025/f88de365-ec94-4441-aa79-0c803e00888d)
+![image](https://github.com/jamalvh/happyheart/assets/113135025/35a3d697-92f5-4796-aca7-8e9c56071cd5)
+![image](https://github.com/jamalvh/happyheart/assets/113135025/ae22cfee-2ba4-4329-9c29-edf9e6039c95)
+![image](https://github.com/jamalvh/happyheart/assets/113135025/708e41eb-a5b0-403d-89d5-ecb3e4a032f4)
+
+
+
+
+
