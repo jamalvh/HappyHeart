@@ -3,12 +3,17 @@ How I Realized There is a Gap in the Market
 
 I interned at a hospital last year, where I researched the existence of White Coat Hypertension (WCH). To combat the effects of WCH, patients with high blood pressure record their blood pressure at home to review with their physician at their next visit. I saw hundreds of patients with hypertension, all of whom were between the ages of 50 and 80---and, all of whom immediately pulled out the pen and scrap paper they had used to scribble down these important measurements...
 
-This shocked me, as it exposed 3 problems: ** 1) a patient's false understanding of how to take blood pressure measurements at home will result in **inaccurate data 2) there exists a serious lack of digital documentation for patient-conducted blood pressure measurements 3) reading through pages of disorganized handwriting is a severely inefficient use of a physician's time
+This shocked me, as it exposed 3 problems: 
+1) a patient's false understanding of how to take blood pressure measurements at home will result in **inaccurate data
+2) there exists a serious lack of digital documentation for patient-conducted blood pressure measurements
+3) reading through pages of disorganized handwriting is a severely inefficient use of a physician's time
 
 The Functionality
 -----------------
 
-1) Provides live feedback using Pose-Estimation to guide user through proper form for BP Measurement 2) Documents all BP Measurements digitally (date, systolic pressure, diastolic pressure) 3) Highlights notable measurements and produces trend graphs to inform physicians in seconds +Very intuitive to use for target audience of older folks
+1) Provides live feedback using Pose-Estimation to guide user through proper form for BP Measurement
+2) Documents all BP Measurements digitally (date, systolic pressure, diastolic pressure)
+3) Highlights notable measurements and produces trend graphs to inform physicians in seconds +Very intuitive to use for target audience of older folks
 
 Under the Hood
 --------------
