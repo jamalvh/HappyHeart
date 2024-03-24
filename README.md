@@ -1,4 +1,4 @@
-# HappyHeart (https://devpost.com/software/happyheart)
+# HappyHeart ᥫ᭡
 **Leveraging cutting-edge ML technology to provide accessible blood pressure monitoring for people of all backgrounds.**
 
 ![image](https://github.com/jamalvh/happyheart/assets/113135025/fe1ad3ce-d42c-4bbf-93c5-9a6096e3a428)
@@ -6,6 +6,8 @@
 ![image](https://github.com/jamalvh/happyheart/assets/113135025/35a3d697-92f5-4796-aca7-8e9c56071cd5)
 ![image](https://github.com/jamalvh/happyheart/assets/113135025/ae22cfee-2ba4-4329-9c29-edf9e6039c95)
 ![image](https://github.com/jamalvh/happyheart/assets/113135025/708e41eb-a5b0-403d-89d5-ecb3e4a032f4)
+
+via https://devpost.com/software/happyheart
 
 How I Realized There is a Gap in the Market
 -------------------------------------------
