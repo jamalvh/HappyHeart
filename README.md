@@ -1,4 +1,4 @@
-# HappyHeart (devpost: [happyheart]([https://devpost.com/software/happyheart]))
+# HappyHeart (devpost: [https://devpost.com/software/happyheart])
 **Leveraging cutting-edge ML technology to provide accessible blood pressure monitoring for people of all backgrounds.**
 
 ![image](https://github.com/jamalvh/happyheart/assets/113135025/fe1ad3ce-d42c-4bbf-93c5-9a6096e3a428)
