@@ -40,6 +40,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: FutureBuilder(
         // Check if the user is already signed in
         future: FirebaseAuth.instance.authStateChanges().first,

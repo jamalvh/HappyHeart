@@ -1,0 +1,1 @@
+ /Users/jvh/Desktop/VSC/happyheart/.dart_tool/flutter_build/ee5d09c5dc0d90c82436d90dae15550f/native_assets.yaml: 

@@ -93,7 +93,7 @@ class _MyAdjustPageState extends State<MyAdjustPage> {
 
   // check if arm is at 90 degree angle using Pythagoras theorem
   void checkIfProperPosition() {
-    bool isNinetyDegrees = false;
+    bool isObtuseAngle = false;
     double x1 = shoulderPosition.dx;
     double y1 = shoulderPosition.dy;
     double x2 = elbowPosition.dx;
@@ -101,22 +101,24 @@ class _MyAdjustPageState extends State<MyAdjustPage> {
     double x3 = wristPosition.dx;
     double y3 = wristPosition.dy;
 
-    // Calculate the sides
-    var A = pow((x2 - x1), 2) + pow((y2 - y1), 2);
+    // Calculate the squared lengths of the sides
+    var A = pow((x2 - x1), 2) + pow((y2 - y1), 2); // shoulder to elbow
+    var B = pow((x3 - x2), 2) + pow((y3 - y2), 2); // elbow to wrist
+    var C = pow((x3 - x1), 2) + pow((y3 - y1), 2); // shoulder to wrist
 
-    var B = pow((x3 - x2), 2) + pow((y3 - y2), 2);
+    // Calculate the cosine of the angle at the elbow using the Law of Cosines
+    if (A > 0 && B > 0 && C > 0) {
+      double cosTheta = (A + B - C) / (2 * sqrt(A) * sqrt(B));
 
-    var C = pow((x3 - x1), 2) + pow((y3 - y1), 2);
-
-    // Check Pythagoras Formula
-    if ((A > 0 && B > 0 && C > 0) &&
-        ((A <= (B + C) + 15000 && A >= (B + C) - 15000) ||
-            (B <= (A + C) + 10000 && B >= (A + C) - 15000) ||
-            (C <= (A + B) + 15000 && C >= (A + B) - 15000))) {
-      isNinetyDegrees = true;
+      // Check if the angle is close to 120 degrees
+      if (cosTheta <= -0.5 && cosTheta >= -0.55) {
+        // Allowing a small range around -0.5
+        isObtuseAngle = true;
+      }
     }
+
     setState(() {
-      isProperPosition = isNinetyDegrees;
+      isProperPosition = isObtuseAngle;
     });
   }
 
