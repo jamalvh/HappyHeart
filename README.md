@@ -16,7 +16,7 @@ I interned at a hospital last year, where I researched the existence of White Co
 
 This shocked me, as it exposed 3 problems: 
 1) a patient's false understanding of how to take blood pressure measurements at home will result in inaccurate data
-2) there exists a serious lack of digital documentation for patient-conducted blood pressure measurements
+2) there exists a lack of digital documentation for patient-conducted blood pressure measurements
 3) reading through pages of disorganized handwriting is a severely inefficient use of a physician's time
 
 The Functionality
