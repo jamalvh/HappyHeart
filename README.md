@@ -15,7 +15,7 @@ How I Realized There Was Need
 I interned at a hospital last year, where I researched the existence of White Coat Hypertension (WCH). To combat the effects of WCH, patients with high blood pressure record their blood pressure at home to review with their physician at their next visit. I saw many patients with hypertension, all of whom were between the ages of 50 and 80---and, all of whom immediately pulled out the pen and scrap paper they had used to scribble down these important measurements...
 
 This shocked me, as it exposed 3 problems: 
-1) a patient's false understanding of how to take blood pressure measurements at home will result in **inaccurate data
+1) a patient's false understanding of how to take blood pressure measurements at home will result in inaccurate data
 2) there exists a serious lack of digital documentation for patient-conducted blood pressure measurements
 3) reading through pages of disorganized handwriting is a severely inefficient use of a physician's time
 
