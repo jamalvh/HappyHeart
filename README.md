@@ -4,8 +4,8 @@
 <img width="185" alt="Screenshot 2024-03-11 at 10 05 28 PM" src="https://github.com/jamalvh/happyheart/assets/113135025/fe1ad3ce-d42c-4bbf-93c5-9a6096e3a428">
 <img width="185" alt="Screenshot 2024-03-11 at 10 05 28 PM" src="https://github.com/jamalvh/happyheart/assets/113135025/f88de365-ec94-4441-aa79-0c803e00888d">
 <img width="185" alt="Screenshot 2024-03-11 at 10 05 28 PM" src="https://github.com/jamalvh/happyheart/assets/113135025/35a3d697-92f5-4796-aca7-8e9c56071cd5">
-<img width="185" alt="Screenshot 2024-03-11 at 10 05 28 PM" src="https://github.com/jamalvh/happyheart/assets/113135025/ae22cfee-2ba4-4329-9c29-edf9e6039c95">
-<img width="185" alt="Screenshot 2024-03-11 at 10 05 28 PM" src="https://github.com/jamalvh/happyheart/assets/113135025/708e41eb-a5b0-403d-89d5-ecb3e4a032f4">
+<img width="185" alt="Screenshot 2024-11-01 at 12 43 47 PM" src="https://github.com/user-attachments/assets/b60c12fc-512a-4e01-a5e4-5a7deb3fc84f">
+<img width="185" alt="Screenshot 2024-11-01 at 12 41 23 PM" src="https://github.com/user-attachments/assets/74e9b20c-7b9a-406d-a077-9afb71387386">
 
 via https://devpost.com/software/happyheart
 
